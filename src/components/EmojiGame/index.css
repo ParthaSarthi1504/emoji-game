@@ -1,0 +1,18 @@
+/* Write your code here. */
+.bg-div {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  height: 100vh;
+}
+.emoji-ul-div {
+  width: 50%;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.emoji-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+}

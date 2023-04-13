@@ -1,0 +1,36 @@
+/* Write your code here. */
+.nav-bg {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.emoji-logo {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+.score-div {
+  display: flex;
+  align-items: center;
+  width: 300px;
+}
+.emoji-game-logo {
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+  width: 300px;
+}
+.score {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-right: 30px;
+}
+.top-score {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}

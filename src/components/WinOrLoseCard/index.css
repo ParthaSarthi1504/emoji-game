@@ -1,0 +1,55 @@
+/* Write your code here. */
+.win-or-loss-card-div {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 30px;
+}
+.result-sub-container {
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.result {
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+.score {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+.score2 {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: #6a59ff;
+  margin-top: 3px;
+}
+.play-again-btn {
+  background-color: #ffce27;
+  width: 120px;
+  height: 30px;
+  outline: none;
+  border-style: solid;
+  border-width: 0;
+  font-family: 'Roboto';
+  font-size: 11px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.won-img {
+  height: 350px;
+}
